@@ -393,6 +393,12 @@ class ContainerNumber
 			"length"    => 20,
 			"stonewood" => "20TK",
 		],
+		"22TO" => [ // 5
+			"english"   => "20' Tank (nondangerous liquids, test pressure 0,45 bar)", 
+			"spanish"   => "Contenedor de 20 pies cisterna (líquidos no peligrosos, presión de prueba 0,45 bar)",
+			"length"    => 20,
+			"stonewood" => "20TK",
+		],
 		"22T1" => [ // 5
 			"english"   => "20' Tank (nondangerous liquids, test pressure 0,45 bar)", 
 			"spanish"   => "Contenedor de 20 pies cisterna (líquidos no peligrosos, presión de prueba 0,45 bar)",
